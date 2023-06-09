@@ -1,4 +1,4 @@
-# landing-page
+
 
 <img src="https://github.com/gooseisnotabird/landing-page/blob/main/img/sreenshot.jpg" alt="pic">
 
